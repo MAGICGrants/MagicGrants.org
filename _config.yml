@@ -1,9 +1,9 @@
 email: info@magicgrants.org
-name: Serai DEX
+name: MAGIC Grants
 description: MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 keywords: "cryptocurrency, blockchain, charity, scholarship, privacy, crypto, research"
 baseurl: ""
-url: ""
+url: "https://magicgrants.github.io/website-new/"
 
 markdown: kramdown
 
