@@ -16,7 +16,7 @@ plugins:
   - jekyll-feed
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/updates/page:num/"
 
 collections_dir: posts
 
