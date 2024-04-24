@@ -1,5 +1,6 @@
 ---
-layout: base
+layout: page
+title: MAGIC Grants Cryptocurrency Scholarship 2023-2024 Recipients
 ---
 
 MAGIC Grants is pleased to announce our 2023 Scholarship recipients! These three individuals wished to be recognized.
