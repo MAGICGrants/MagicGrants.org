@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 This page indexes the scholarship recipients who wished to be recognized publicly. We are inspired by their commitment and interest!

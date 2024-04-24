@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 MAGIC distributes scholarships available to assist students accomplish their educational goals. Applications open in the Spring for the following school year.

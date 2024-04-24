@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 MAGIC Grants is pleased to announce our 2021 Scholarship recipients! These three individuals wished to be recognized.
