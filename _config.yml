@@ -28,3 +28,4 @@ collections:
 # We use this for Matrix
 include:
   - .well-known
+  - _redirects
