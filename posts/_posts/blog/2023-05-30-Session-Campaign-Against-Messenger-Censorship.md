@@ -8,7 +8,7 @@ author: magicboard
 
 MAGIC Grants is proud to support the [Session](https://getsession.org/) and [Oxen](https://oxen.io/) teams with an important anti-censorship research project.
 
-[![Session Messenger Anti-Censorship Research Campaign](/images/session-messenger-anti-censorship-2023-05.png)](/images/session-messenger-anti-censorship-2023-05.png)
+[![Session Messenger Anti-Censorship Research Campaign](/img/posts/session-messenger-anti-censorship-2023-05.png)](/img/posts/session-messenger-anti-censorship-2023-05.png)
 
 ## [Donate today!](https://btcpay.magicgrants.org/apps/2WE269dC1f22266iFfs6WVoHxGJG/crowdfund)
 
