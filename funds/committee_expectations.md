@@ -21,7 +21,7 @@ Though expectations vary by fund, advisory committee members generally are expec
 
 * Be an upstanding representative for the MAGIC Project Fund.
 
-* Abide by all MAGIC Grants [policies](/about/documentation/).
+* Abide by all MAGIC Grants [policies](/about/documentation).
 
 Committee members should expect to spend several hours a week on their committee duties. We estimate about 150 hours per year is normal. If this is too much, please apply to be a voter instead.
 

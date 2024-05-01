@@ -25,7 +25,7 @@ MAGIC Grants offers MAGIC Funds around specific projects where the disbursements
 
 Donations to MAGIC Grants are unrestricted donations (unless mentioned). Donations to any particular MAGIC Fund are subject to the restrictions documented for the fund.
 
-To learn more about MAGIC Funds and to donate to them, please [click here](/funds/).
+To learn more about MAGIC Funds and to donate to them, please [click here](/funds).
 
 ## Why should I donate?
 

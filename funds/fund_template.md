@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC <Project> Fund TEMPLATE"
 ---
 
-*Updated 2022-04-12*
+*Updated 2024-05-01*
 
 ## Background
 
@@ -150,7 +150,7 @@ Should any portion of this document affect the legal standing of MAGIC Grants, M
 
 ## MAGIC Grants Existing Board
 
-[Link](/about/)
+[Link](/about)
 
 ## Contact Information
 

@@ -9,8 +9,8 @@ MAGIC Funds are an innovative way for MAGIC Grants to support important cryptocu
 
 These are the existing MAGIC Funds. Please click on the one you are interested in learning more about:
 
-* [MAGIC Monero Fund](/funds/monero/)
-* [MAGIC Firo Fund](/funds/firo/)
+* [MAGIC Monero Fund](/funds/monero)
+* [MAGIC Firo Fund](/funds/firo)
 
 ## Proposed / Pending MAGIC Funds
 
@@ -58,11 +58,11 @@ Please note that for a MAGIC Fund to be set up for a particular project, MAGIC G
 
 ## Committee Member Expectations
 
-[Click here for an overview](/funds/committee_expectations/).
+[Click here for an overview](/funds/committee_expectations).
 
 ## Voter Expectations
 
-[Click here for an overview](/funds/voter_expectations/).
+[Click here for an overview](/funds/voter_expectations).
 
 ## Restrictions on Disbursements
 

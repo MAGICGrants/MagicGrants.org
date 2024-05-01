@@ -11,7 +11,7 @@ Voters elect committee members for a MAGIC Fund, and they make other decisions f
 
 In our experience, most voters only need to commit about 5 hours per year to their core duties.
 
-* Vote on the committee and on various occasional decisions (see [how to vote](/funds/voting/)).
+* Vote on the committee and on various occasional decisions (see [how to vote](/funds/voting)).
 
 * Read the committee member applications.
 

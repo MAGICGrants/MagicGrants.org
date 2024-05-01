@@ -62,7 +62,7 @@ To follow up:
 * Under the "Poll Control" page, upload/type the list of voters again (leave "Invite even voters who have already voted?" unchecked) and click "Add voters".
 * Send inactive voters another email.
 
-*Note: you do NOT need send reminder emails for every wave of newly registered voters! Once they register, they will see a link to pariticpate in the poll ("Pending poll invitations:").
+*Note: you do NOT need send reminder emails for every wave of newly registered voters! Once they register, they will see a link to participate in the poll ("Pending poll invitations:").
 
 To stop the poll:
 

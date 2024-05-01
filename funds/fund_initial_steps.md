@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Fund Initial Steps"
 ---
 
-*Updated 2021-11-20*
+*Updated 2024-05-01*
 
 ## MAGIC Grants Background
 
@@ -17,7 +17,7 @@ Multidisciplinary Academic Grants in Cryptocurrencies (MAGIC Grants) is a 501(c)
 
 MAGIC Grants additionally issues scholarships for undergraduate students interested in cryptocurrencies.
 
-[Meet the MAGIC Grants board members](/about/), who have extensive cryptocurrency ecosystem experience.
+[Meet the MAGIC Grants board members](/about), who have extensive cryptocurrency ecosystem experience.
 
 ## Step 1: MAGIC Grants Initial Diligence
 
@@ -34,7 +34,7 @@ You can get a head start by reviewing the MAGIC Fund template and the [documents
 * [MAGIC Fund Template](/funds/fund_template)
 * [MAGIC Fund Fees](/funds/fund_fees)
 * [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits)
-* [Voting Process](/funds/voting/)
+* [Voting Process](/funds/voting)
 
 Make sure you fully understand the limitations of what MAGIC Funds can fund, and what documents are needed from grant recipients (and any other payee) for funds to be disbursed.
 
