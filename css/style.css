@@ -739,7 +739,8 @@ header .container {
     text-decoration: none;
 }
 
-.btn-primary, .btn-primary:visited {
+.btn-primary, .btn-primary:visited, 
+.blog-section .col.post-page .post-body p a.btn-primary {
     background-color: #2E5DE4;
     color: #ffffff;
     border-radius: 100px;
@@ -755,7 +756,8 @@ header .container {
     position: relative;
 }
 
-.btn-primary:before {
+.btn-primary:before, .btn-primary:visited:before,
+.blog-section .col.post-page .post-body p a.btn-primary:before {
     content: '';
     position: absolute;
     top: 50%;
@@ -772,7 +774,10 @@ header .container {
     opacity: 0;
 }
 
-.btn-primary:hover:before, .btn-primary:active:before, .btn-primary:focus:before {
+.btn-primary:hover:before, .btn-primary:active:before, .btn-primary:focus:before,
+.blog-section .col.post-page .post-body p a.btn-primary:hover:before, 
+.blog-section .col.post-page .post-body p a.btn-primary:active:before, 
+.blog-section .col.post-page .post-body p a.btn-primary:focus:before {
     opacity: 1;
     height: 100%;
     width: 100%;
@@ -1805,6 +1810,7 @@ header .container {
 
 .blog-section .col.post-page .post-body p a {
     text-decoration: none;
+    color: #2E5DE4;
     border-bottom: 1.5px dashed #2E5DE4;
 }
 
