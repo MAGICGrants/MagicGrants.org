@@ -26,15 +26,15 @@ On the ETH side of the swap, there is no privacy, and which accounts and amounts
 
 ### ERC20 support
 
-To support swaps for ERC20s without hurting liquidity, the swap contract can be integrated with a DEX such as Uniswap to automat-ically swap received ETH for the desired ERC20 token.
+To support swaps for ERC20s without hurting liquidity, the swap contract can be integrated with a DEX such as Uniswap to automatically swap received ETH for the desired ERC20 token.
 
 ### Disk permanence
 
-The current implementation of the swap does not store anything to disk apart from information needed for recovery of swap funds in case of failure. However, there are other components that should be stored to disk and restored upon reload, such as current swap of-fers made, historic swap information, and peer information. This will require a simple key-value database implementation.
+The current implementation of the swap does not store anything to disk apart from information needed for recovery of swap funds in case of failure. However, there are other components that should be stored to disk and restored upon reload, such as current swap offers made, historic swap information, and peer information. This will require a simple key-value database implementation.
 
 ### General maintenance and bugfixes
 
-See https://github.com/noot/atomic-swap/issues for open issues on the repo. Issues not covered by the above work are part of this sec-tion. This includes RPC calls and documentation, codebase maintenance, testing, and fixes of any bugs found during testing.
+See https://github.com/noot/atomic-swap/issues for open issues on the repo. Issues not covered by the above work are part of this section. This includes RPC calls and documentation, codebase maintenance, testing, and fixes of any bugs found during testing.
 
 This campaign is being done through the [MAGIC Monero Fund](/funds/monero), and all donations go to it. Should this proposal fail for any reason, donations will support this Fund. 
  

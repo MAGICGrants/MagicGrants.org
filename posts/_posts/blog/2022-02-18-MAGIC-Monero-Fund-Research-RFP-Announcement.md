@@ -19,4 +19,4 @@ The committee will evaluate grant applications based on:
     
 Applications are accepted on a rolling basis. The MAGIC Monero Fund anticipates funding requests of the equivalent of 5,000 to 20,000 USD at this time. Note that recipients of grants will have to submit identity information to MAGIC Grants as part of compliance with U.S. Know Your Customer (KYC) regulations.
 
-The inaugural MAGIC Monero Fund committee was elected by Monero community members in January 2022. Committee meeting minutes are available for public viewing [here](https://magicgrants.org/funds/monero/).
+The inaugural MAGIC Monero Fund committee was elected by Monero community members in January 2022. Committee meeting minutes are available for public viewing [here](/funds/monero).

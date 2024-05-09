@@ -7,7 +7,7 @@ Author: magicboard
 
 ## MAGIC Grants Approves Security Retainer with HashCloak
 
-We are pleased to announce that the MAGIC Board has approved a security retainer with [HashCloak](https://hashcloak.com/) for [Firo](https://firo.org/) that will utilise the [MAGIC Firo Fund](https://magicgrants.org/funds/). 
+We are pleased to announce that the MAGIC Board has approved a security retainer with [HashCloak](https://hashcloak.com/) for [Firo](https://firo.org/) that will utilise the [MAGIC Firo Fund](/funds/firo). 
 
 The security retainer focuses on building out Firo’s fuzz testing infrastructure, expanding unit test coverage, and augmenting Firo’s existing PR review process. Additionally, the retainer also ensures Firo is abreast of the latest vulnerabilities and security techniques along with assessing vulnerabilities in other chains and their applicability to Firo.
 
@@ -31,4 +31,4 @@ MAGIC Grants is a 501(c)(3) public charity that supports cryptocurrency networks
 
 ### About MAGIC Firo Fund
 
-The [MAGIC Firo Fund](https://magicgrants.org/funds/) was established in December 2022 and is administered by the MAGIC Board independently from the Firo Core team. The MAGIC Firo Fund is funded by generous donations from Firo supporters such as [Arcadia](https://magicgrants.org/200000-Donation-from-Arcadia-for-Firo/). Donations to the fund are tax deductible for US individuals and businesses.
+The [MAGIC Firo Fund](/funds/firo) was established in December 2022 and is administered by the MAGIC Board independently from the Firo Core team. The MAGIC Firo Fund is funded by generous donations from Firo supporters such as [Arcadia](/2022/12/22/200000-Donation-from-Arcadia-for-Firo). Donations to the fund are tax deductible for US individuals and businesses.

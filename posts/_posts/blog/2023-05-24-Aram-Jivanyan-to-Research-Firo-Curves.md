@@ -8,7 +8,7 @@ author: magicboard
 
 Aram Jivanyan, a researcher with years of research and implementation experience with Firo and Lelantus Spark, is working with MAGIC Grants to conduct six months of additional curve research to improve the privacy of Lelantus Spark.
 
-This research grant was made possible because of the [generous donation](https://magicgrants.org/200000-Donation-from-Arcadia-for-Firo/) to the [MAGIC Firo Fund](/funds/firo/) by [Arcadia](https://www.arcadiamgroup.com/).
+This research grant was made possible because of the [generous donation](/2022/12/22/200000-Donation-from-Arcadia-for-Firo) to the [MAGIC Firo Fund](/funds/firo) by [Arcadia](https://www.arcadiamgroup.com/).
 
 Before working with MAGIC Grants, Aram did preliminary work to assess the feasibility of this research direction. Following this initial analysis, he is confident that this research project is likely to bring greater anonymity sets to the final Lelantus Spark implementation.
 

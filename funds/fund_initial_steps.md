@@ -30,7 +30,7 @@ If you prefer to submit the form by email, please [fill out this form](/funds/MA
 
 MAGIC Grants will reply with a tailored document for your MAGIC Fund describing various governance details. Make sure to review this carefully and discuss this with your community. Each community is different; something that makes sense for one community may not make sense for another.
 
-You can get a head start by reviewing the MAGIC Fund template and the [documents of another MAGIC Fund](https://magicgrants.org/funds) to see what other communities do.
+You can get a head start by reviewing the MAGIC Fund template and the [documents of another MAGIC Fund](/funds) to see what other communities do.
 
 * [MAGIC Fund Template](/funds/fund_template)
 * [MAGIC Fund Fees](/funds/fund_fees)

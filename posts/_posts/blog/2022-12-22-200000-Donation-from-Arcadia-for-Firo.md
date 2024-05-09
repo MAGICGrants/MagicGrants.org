@@ -10,7 +10,7 @@ MAGIC Grants is extremely excited to announce a generous donation from [Arcadia]
 
 MAGIC Grants is communicating with Reuben Yap and Rasikh Morani to create an action plan for these funds to be put to best use. One option on the table is the creation of a MAGIC Firo Fund with its own steering committee.
 
-Firo is a decentralized cryptocurrency network with advanced privacy features. Their Lelantus Spark code audit was [recently completed](https://firo.org/2022/12/20/lelantus-spark-code-audit-completed.html) with the [help](https://magicgrants.org/MAGIC-Grants-Saves-Firo-Community-8000-Lelantus-Spark-Audit/) of MAGIC Grants. Lelantus Spark is based on open research, and the code is MIT-licensed for anyone to use.
+Firo is a decentralized cryptocurrency network with advanced privacy features. Their Lelantus Spark code audit was [recently completed](https://firo.org/2022/12/20/lelantus-spark-code-audit-completed.html) with the [help](/2022/10/06/MAGIC-Grants-Saves-Firo-Community-8000-Lelantus-Spark-Audit) of MAGIC Grants. Lelantus Spark is based on open research, and the code is MIT-licensed for anyone to use.
 
 This donation allows the Firo community to pursue a variety of important ecosystem projects. MAGIC Grants is happy to support projects that advance its charitable goals.
 

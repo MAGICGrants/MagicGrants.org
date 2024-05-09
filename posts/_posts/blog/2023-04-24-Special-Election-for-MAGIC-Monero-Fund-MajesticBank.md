@@ -21,11 +21,11 @@ See existing applicants: [https://github.com/MAGICGrants/Monero-Fund-Elections/i
 * Open date: 24 April 2023
 * Due date: **22 May 2023**
 
-Committee member expectations: [https://magicgrants.org/funds/committee_expectations/](/funds/committee_expectations/)
+Committee member expectations: [https://magicgrants.org/funds/committee_expectations/](/funds/committee_expectations)
 
 ## Voting Process for Existing Voters
 
-[https://magicgrants.org/funds/voting/](/funds/voting/)
+[https://magicgrants.org/funds/voting/](/funds/voting)
 
 * Election start date: **23 May 2023**
 * Election end date: **5 June 2023**

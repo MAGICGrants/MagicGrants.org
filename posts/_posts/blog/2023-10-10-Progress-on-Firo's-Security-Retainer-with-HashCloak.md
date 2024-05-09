@@ -6,7 +6,7 @@ date: 2023-10-10
 author: magicboard
 ---
 
-We're pleased to provide an update on our ongoing [security retainer with HashCloak](https://magicgrants.org/Security-Retainer-with-HashCloak/) that was funded from the [MAGIC Firo Fund](/funds/firo/). We'd like to share some of the milestones achieved during this period.
+We're pleased to provide an update on our ongoing [security retainer with HashCloak](/2023/07/14/Security-Retainer-with-HashCloak) that was funded from the [MAGIC Firo Fund](/funds/firo). We'd like to share some of the milestones achieved during this period.
 
 ## Improved Fuzzing Code Coverage
 

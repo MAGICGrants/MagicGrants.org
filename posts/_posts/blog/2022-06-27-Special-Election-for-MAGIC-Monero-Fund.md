@@ -36,7 +36,7 @@ See existing applicants: [https://github.com/MAGICGrants/Monero-Fund/issues](htt
 * Open date: 27 June 2022
 * Due date: 25 July 2022
 
-Committee member expectations: [https://magicgrants.org/funds/committee_expectations/](/funds/committee_expectations/)
+Committee member expectations: [https://magicgrants.org/funds/committee_expectations/](/funds/committee_expectations)
 
 Committee members are encouraged to *also* apply as a Fund voter!
 
@@ -58,11 +58,11 @@ You may alternatively submit nominations by email to [info@magicgrants.org](mail
 * The nominee's name/pseudonym will be made public if selected. Please confirm you are okay with this.
     * Note: If you are nominating another person, they must accept the nomination. We will confirm they wish for their name/pseudonym to appear publicly. We will not share their name/pseudonym publicly without their permission. The email will not be made public.
 
-Voter expectations: [https://magicgrants.org/funds/voter_expectations/](/funds/voter_expectations/)
+Voter expectations: [https://magicgrants.org/funds/voter_expectations/](/funds/voter_expectations)
 
 ## Voting process for existing voters
 
-[https://magicgrants.org/funds/voting/](/funds/voting/)
+[https://magicgrants.org/funds/voting/](/funds/voting)
 
 * Election start date: **27 July 2022**
 * Election end date: **5 August 2022**
