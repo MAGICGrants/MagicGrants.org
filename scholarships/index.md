@@ -7,6 +7,6 @@ MAGIC Grants distributes scholarships available to assist students accomplish th
 
 We are eager to support cryptocurrency research and to alleviate the financial burden for students.
 
-[Apply](/scholarships/scholarship-application/){: .btn-primary}
+[Apply](/scholarships/scholarship-application){: .btn}
 
 [See Recipients](/scholarships/scholarship-recipients){: .btn-secondary}

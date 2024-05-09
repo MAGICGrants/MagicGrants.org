@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Fund Initial Steps"
 ---
 
-*Updated 2024-05-01*
+*Updated 2024-05-09*
 
 ## MAGIC Grants Background
 
@@ -11,6 +11,7 @@ Multidisciplinary Academic Grants in Cryptocurrencies (MAGIC Grants) is a 501(c)
 
 * Creating educational materials
 * Purchasing and distributing educational materials
+* Supporting scientific research projects
 * Supporting the “maintenance of public infrastructure”
     * “Public infrastructure” in this case refers to major public cryptocurrency networks
     * “Supporting” refers to research, development, node operation, and security testing, among others
