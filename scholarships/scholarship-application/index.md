@@ -19,7 +19,7 @@ We welcome worldwide applicants, not just US students!
 
 Click on the link below to view the full scholarship instructions. If you need assistance, please contact [applications@magicgrants.org](mailto:applications@magicgrants.org).
 
-[Apply on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSebLtxLxWATwmXR6_WqAajLw1nHmwCOmk4UGD0Nzn-8vu_YJA/viewform){: .btn}
+[Apply on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSebLtxLxWATwmXR6_WqAajLw1nHmwCOmk4UGD0Nzn-8vu_YJA/viewform){: .btn-primary}
 
 Don't have a Google account? [See the instructions here](/scholarships/scholarship-application/2024-Scholarship-Application.pdf). You can submit the relevant information by email to [applications@magicgrants.org](mailto:applications@magicgrants.org), or contact us for other submission options.
 

@@ -5,13 +5,13 @@ title: "Donate"
 
 ## Active Campaigns and Programs
 
-* [MAGIC Monero Fund campaigns](https://monerofund.org)
+[MAGIC Monero Fund campaigns](https://monerofund.org){: .btn-secondary}
 
 ## General Donations
 
 General donations go towards various charitable programs, including our scholarship programs and overhead costs.
 
-[Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637)
+[Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637){: .btn-primary}
 
 For other donation options including cryptocurrencies and large amounts, please contact [info@magicgrants.org](mailto:info@magicgrants.org).
 
@@ -27,9 +27,8 @@ Donations to MAGIC Grants are unrestricted donations (unless mentioned). Donatio
 
 To learn more about MAGIC Funds and to donate to them, please [click here](/funds).
 
-## Why should I donate?
+## Why Should I Donate?
 
 At MAGIC Grants, we help to redirect some of the wealth generated in the cryptocurrency world back towards improving the ecosystem. Our goals are simple. With your help, we can make it cheaper to go to college for some folks interested in studying cryptocurrencies. These students need initial support from the cryptocurrency community to know that it is welcoming.
 
 Your donations also support critical infrastructure improvements for public payment networks such as Bitcoin and Monero.
-
