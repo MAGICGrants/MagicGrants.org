@@ -343,8 +343,8 @@ h1, h2, h3 {
 }
 
 .main-menu li.nav-item a:hover, .main-menu li.nav-item a:active, .main-menu li.nav-item a:focus {
-    color: #414cda;
-    background-color: #dcdbff;
+    color: #3a76f0;
+    background-color: #D1DFFB;
 }
 
 .main-menu li.nav-item ul.dropdown {
@@ -398,8 +398,8 @@ h1, h2, h3 {
 }
 
 .main-menu li.nav-item ul.dropdown li a:hover, .main-menu li.nav-item ul.dropdown li a:active, .main-menu li.nav-item ul.dropdown li a:focus {
-    color: #414cda;
-    background-color: #dcdbff;
+    color: #3a76f0;
+    background-color: #D1DFFB;
 }
 
 .main-menu li.nav-item:hover > ul.dropdown, .main-menu li.nav-item:focus-within > ul.dropdown .main-menu li.nav-item ul.dropdown:hover, .main-menu li.nav-item ul.dropdown:focus {
@@ -593,7 +593,7 @@ header .container {
     }
 
     .slide-nav .mob-item >a, .slide-nav .mob-item > label {
-        color: #414cda;
+        color: #3a76f0;
     }
         
     .slide-nav .mob-item label {
@@ -623,7 +623,7 @@ header .container {
     }
         
     .slide-nav .mob-item input:checked + label:after {
-        background-color: #414cda;
+        background-color: #3a76f0;
     }
         
     .slide-nav .mob-item .dropdown-content li a {
@@ -642,7 +642,7 @@ header .container {
     }
         
     .slide-nav .mob-item > a:hover, .slide-nav .mob-item > a:focus, .slide-nav .mob-item > a:active, .slide-nav .mob-item > label:hover, .slide-nav .mob-item > label:focus, .slide-nav .mob-item > label:active, .slide-nav .mob-item > input:checked + label, .slide-nav .mob-item .dropdown-content li a:hover, .slide-nav .mob-item .dropdown-content li a:focus, .slide-nav .mob-item .dropdown-content li a:active {
-        color: #414cda;
+        color: #3a76f0;
     }
 
     .logo-mobile img {
@@ -664,7 +664,7 @@ header .container {
 
     .slide-nav .mob-item .sub-nav-item {
         display: block;
-        background-color: #dcdbff;
+        background-color: #D1DFFB;
         border-radius: 50%;
         padding: 1rem;
         width: 1.8rem;
@@ -672,7 +672,7 @@ header .container {
     }
 
     .slide-nav .mob-item .sub-nav-item svg {
-        fill: #414cda;
+        fill: #3a76f0;
     }
 
 }
@@ -741,7 +741,7 @@ header .container {
 
 .btn-primary, .btn-primary:visited, 
 .blog-section .col.post-page .post-body p a.btn-primary {
-    background-color: #414cda;
+    background-color: #3a76f0;
     color: #ffffff;
     border-radius: 100px;
     text-decoration: none;
@@ -784,8 +784,8 @@ header .container {
 }
 
 .btn-secondary, .btn-secondary:visited {
-    background-color: #dcdbff;
-    color: #414cda;
+    background-color: #D1DFFB;
+    color: #3a76f0;
     border-radius: 100px;
     text-decoration: none;
     padding: 1rem 2rem;
@@ -1328,7 +1328,7 @@ header .container {
 
 .social .social-links li a {
     display: block;
-    background-color: #dcdbff;
+    background-color: #D1DFFB;
     border-radius: 50%;
     padding: 1rem;
     width: 2rem;
@@ -1338,7 +1338,7 @@ header .container {
 }
 
 .social .social-links li a svg path {
-    fill: #414cda;
+    fill: #3a76f0;
 }
 
 .social .social-links li a:before {
@@ -1810,8 +1810,8 @@ header .container {
 
 .blog-section .col.post-page .post-body p a {
     text-decoration: none;
-    color: #414cda;
-    border-bottom: 1.5px dashed #414cda;
+    color: #3a76f0;
+    border-bottom: 1.5px dashed #3a76f0;
 }
 
 .blog-section .col.post-page .post-body ul {
@@ -1841,9 +1841,9 @@ header .container {
 }
 
 .blog-section .col.post-page .post-body ul li a, .blog-section .col.post-page .post-body ol li a {
-    color: #414cda;
+    color: #3a76f0;
     text-decoration: none;
-    border-bottom: 1px solid #414cda;
+    border-bottom: 1px solid #3a76f0;
 }
 
 .blog-section .col.post-page .post-body ul p, .blog-section .col.post-page .post-body ol p {
@@ -1884,7 +1884,7 @@ blockquote:before {
     left: 2rem;
     margin-right: 1rem;
     font-size: 6rem;
-    color: #414cda;
+    color: #3a76f0;
     font-weight: 700;
 }
 
@@ -1952,7 +1952,7 @@ blockquote p {
 /* footer */
 
 footer {
-    background-color: #414cda;
+    background-color: #3a76f0;
     padding: 1rem;
 }
 
