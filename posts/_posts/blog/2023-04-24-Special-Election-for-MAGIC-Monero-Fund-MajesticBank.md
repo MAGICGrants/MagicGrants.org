@@ -32,7 +32,7 @@ Committee member expectations: [https://magicgrants.org/funds/committee_expectat
 
 ## Proposed Amendment to the MAGIC Monero Fund Document
 
-The MAGIC Monero Fund committee voted in favor of [an amendment](https://github.com/MAGICGrants/website/pull/16) to the MAGIC Monero Fund document. This proposed change will remain open for public comments until June 5th, after which the MAGIC Grants board will make the final decision on whether to merge the change.
+The MAGIC Monero Fund committee voted in favor of [an amendment](https://github.com/MAGICGrants/website-2021-10-01/pull/16) to the MAGIC Monero Fund document. This proposed change will remain open for public comments until June 5th, after which the MAGIC Grants board will make the final decision on whether to merge the change.
 
 ## Help and Other Info
 

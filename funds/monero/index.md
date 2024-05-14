@@ -69,4 +69,4 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 {% endfor %}
 </ul>
 
-[Archive of older minutes](https://github.com/MAGICGrants/website/tree/master/posts/_monerofundminutes)
+[Archive of older minutes](https://github.com/MAGICGrants/MagicGrants.org/tree/master/posts/_monerofundminutes)
