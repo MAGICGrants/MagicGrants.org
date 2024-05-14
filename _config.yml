@@ -14,6 +14,7 @@ kramdown:
 plugins:
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-sitemap
 
 paginate: 6
 paginate_path: "/updates/page:num/"
