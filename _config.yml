@@ -3,7 +3,7 @@ name: MAGIC Grants
 description: MAGIC Grants | Charity for scholarships, public cryptocurrency infrastructure, and educational materials
 keywords: "cryptocurrency, blockchain, charity, scholarship, privacy, crypto, research"
 baseurl: ""
-url: "https://new.magicgrants.org"
+url: "https://magicgrants.org"
 
 markdown: kramdown
 
