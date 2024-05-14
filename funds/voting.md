@@ -36,7 +36,7 @@ Here are some handy tips to set up the voting process:
 * You will need to make one poll per question.
 * [Click here to create a CIVS poll](https://civs1.civs.us/civs_create.html).
 * Name the poll appropriately. This is shown to all voters. Eg: "MAGIC Monero Fund 2023-01 (1 of 1)"
-* Add your name as the supervisor or use `MAGIC Board`.
+* Add your name as the supervisor or use "MAGIC Board".
 * Use the info@magicgrants.org email as the supervisor. Do not use a Fund email (eg: MoneroFund@magicgrants.org) since this will give improper permissions to the committee members.
 * Add the proper day and time that the poll will stop. Polls need to be stopped manually by the supervisor (you).
 * Description should link to relevant materials, such as the GitHub issues where candidates are listed, and/or a summary blog post.

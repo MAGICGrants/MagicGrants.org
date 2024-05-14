@@ -14,13 +14,13 @@ vtnerd (Lee Clagett) is the author of [Monero-LWS](https://github.com/vtnerd/mon
 
 This proposal funds 480 hours of work, ~3 months. The milestones will be hour based; 160 (1 month), 320 (2 months), 480 (3 months). At the completion of hours, he will provide the Monero Fund committee references to the work that was completed during that timeframe. 
 
-Some features that are being targeted in [`monero-project/monero`](https://www.github.com/monero-project/monero):
+Some features that are being targeted in "[monero-project/monero](https://www.github.com/monero-project/monero)":
 
 * Get new serialization routine merged (work on piecemeal PRs for reviewers sake) (already in-progress)
 * Complete work necessary to merge DANE/TLSA in wallet2/epee.
 * Adding trust-on-first-use support to wallet2
 
-Work targeted towards [`vtnerd/monero-lws`](https://github.com/vtnerd/monero-lws): 
+Work targeted towards "[vtnerd/monero-lws](https://github.com/vtnerd/monero-lws)":
 
 * Optional full chain verification for malicious daemon attack (already-in progress)
 * Webhooks/ZMQ-PUB support for tx sending (watch for unexpected sends)
