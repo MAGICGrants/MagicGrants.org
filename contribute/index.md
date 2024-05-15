@@ -5,7 +5,7 @@ title: "Donate"
 
 ## Active Campaigns and Programs
 
-[MAGIC Monero Fund campaigns](https://monerofund.org){: .btn-secondary}
+[MAGIC Monero Fund Campaigns](https://monerofund.org){: .btn-secondary}
 
 ## General Donations
 
