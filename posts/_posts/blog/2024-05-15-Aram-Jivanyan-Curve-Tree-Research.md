@@ -16,3 +16,14 @@ Aram Jivanyan, a researcher with years of research and implementation experience
 
 We would like to thank Aram Jivanyan for their work, and we would like to thank Luke Parker and Aaron Feickert for their support and feedback during the research process.
 
+### About Firo
+
+[Firo](https://firo.org) is a privacy-preserving blockchain that seeks to protect users’ financial privacy. Its core team is behind the protocol design and implementation of the Lelantus and Lelantus Spark privacy protocols. Formerly known as Zcoin, it has also implemented various privacy-preserving protocols over its existence, leveraging discrete-log based zero-knowledge primitives. Further, they provided the anonymous voting infrastructure for the Thai Democrat Party elections in 2018.
+
+### About MAGIC Grants
+
+MAGIC Grants is a 501(c)(3) public charity that supports cryptocurrency networks, which are essential public payment infrastructure. MAGIC Grants empowers communities to set up MAGIC Funds for various projects deemed essential. These Funds are semi-autonomous and can choose to fund various qualifying activities, including educational materials, essential developer maintenance, research, and security audits.
+
+### About MAGIC Firo Fund
+
+The [MAGIC Firo Fund](/funds/firo) was established in December 2022 and is administered by the MAGIC Board independently from the Firo Core team. The MAGIC Firo Fund is funded by generous donations from Firo supporters. Donations to the fund are tax deductible for US individuals and businesses.
