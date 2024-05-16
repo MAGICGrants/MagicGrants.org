@@ -6,8 +6,6 @@ date: 2024-05-16
 Author: magicboard
 ---
 
-## Firo Lelantus Spark Flutter Library Released by Stack Wallet with the Help of the MAGIC Firo Fund
-
 With Firo's Lelantus Spark [mainnet activation on January 18, 2024](https://firo.org/2024/01/18/spark-is-live.html), the MAGIC Firo Fund tasked Stack Wallet last December and January to build a Flutter plugin for Firo's [sparkmobile](https://github.com/firoorg/sparkmobile) library. [This Flutter plugin](https://github.com/cypherstack/flutter_libsparkmobile) makes it easy for Flutter wallet apps to integrate Firo Lelantus Spark, and because it is MIT-licensed, anyone can use the plugin.
 
 Lelantus Spark is an important evolution in Firo's network. Spark transactions within Spark addresses hide the sender, receiver, and amount transferred.

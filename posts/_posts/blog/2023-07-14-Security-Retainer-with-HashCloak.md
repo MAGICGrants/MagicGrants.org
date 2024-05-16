@@ -5,8 +5,6 @@ excerpt: "The security retainer focuses on building out Firo’s fuzz testing in
 Author: magicboard
 ---
 
-## MAGIC Grants Approves Security Retainer with HashCloak
-
 We are pleased to announce that the MAGIC Board has approved a security retainer with [HashCloak](https://hashcloak.com/) for [Firo](https://firo.org/) that will utilise the [MAGIC Firo Fund](/funds/firo). 
 
 The security retainer focuses on building out Firo’s fuzz testing infrastructure, expanding unit test coverage, and augmenting Firo’s existing PR review process. Additionally, the retainer also ensures Firo is abreast of the latest vulnerabilities and security techniques along with assessing vulnerabilities in other chains and their applicability to Firo.

@@ -5,8 +5,6 @@ excerpt: "Following the resignation of Vik Sharma, the MAGIC Monero Fund will el
 Author: magicboard
 ---
 
-## Special Election for the MAGIC Monero Fund
-
 On June 21, 2022, Vik Sharma voluntarily resigned from the MAGIC Monero Fund due to a lack of time. The MAGIC Grants board and the MAGIC Monero Fund committee would like to thank Vik for his service to the committee and to the Monero community.
 
 **We are looking for new MAGIC Monero Fund committee candidates and MAGIC Monero Fund voters for this special election.**
