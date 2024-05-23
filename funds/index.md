@@ -11,6 +11,7 @@ These are the existing MAGIC Funds. Please click on the one you are interested i
 
 * [MAGIC Monero Fund](/funds/monero)
 * [MAGIC Firo Fund](/funds/firo)
+* [MAGIC Privacy Guides Fund](/funds/privacy_guides)
 
 ## Proposed / Pending MAGIC Funds
 
