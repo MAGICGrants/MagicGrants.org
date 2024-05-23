@@ -24,6 +24,8 @@ collections_dir: posts
 collections:
   monerofundminutes:
     output: true
+  privacyguidesfundminutes:
+    output: true
   
 # Needed for Jekyll to deliver . folders
 # We use this for Matrix
