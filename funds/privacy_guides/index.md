@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Privacy Guides Fund"
 ---
 
-MAGIC Grants is pleased to host the [Privacy Guides](https://privacyguides.org) project with the MAGIC Privacy Guides Fund.
+MAGIC Grants is pleased to host the [Privacy Guides](https://privacyguides.org) project with the MAGIC Privacy Guides Fund. Privacy Guides the leading resource for independent, criteria-focused product recommendations and general knowledge in the privacy space.
 
 ## Donate
 
@@ -25,7 +25,7 @@ Currently, committee members are appointed and removed by the committee. There i
 
 * To maintain the best privacy educational resources.
 * To foster a privacy community.
-* TO remain free of advertisements and affiliate links.
+* To remain free of advertisements and affiliate links.
 
 ## Committee Minutes
 
