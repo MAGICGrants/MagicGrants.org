@@ -15,6 +15,8 @@ These are the existing MAGIC Funds. Please click on the one you are interested i
 
 ## Proposed / Pending MAGIC Funds
 
+None at this time. Please [contact us](mailto:info@magicgrants.org) to propose a new fund!
+
 ## About MAGIC Funds
 
 MAGIC Grants created the MAGIC Funds initiative to allow communities to fund various qualifying projects with ease.
