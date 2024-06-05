@@ -7,7 +7,7 @@ MAGIC Grants is pleased to host the [Privacy Guides](https://privacyguides.org) 
 
 ## Donate
 
-To donate to the MAGIC Privacy Guides Fund, please email us at [info@maigcgrants.org](mailto:info@magicgrants.org). We accept donations with credit card, bank transfer, and cryptocurrency. A new donation platform to make donating easier will be deployed soon.
+To donate to the MAGIC Privacy Guides Fund, please email us at [info@magicgrants.org](mailto:info@magicgrants.org). We accept donations with credit card, bank transfer, and cryptocurrency. A new donation platform to make donating easier will be deployed soon.
 
 ## Committee Members
 
