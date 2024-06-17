@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuprate Fast Sync Hackathon Submission Wins Enhancement to XMR Usability Award"
-excerpt: "The MAGIC Monero Fund supported the Monero Konferenceo 2024 Hackathon, and the winner of the prize implemented fast sync for Cuprate, a Monero node implementation in Rust."
+excerpt: "The MAGIC Monero Fund supported the Monero Konferenco 2024 Hackathon, and the winner of the prize implemented fast sync for Cuprate, a Monero node implementation in Rust."
 date: 2024-06-17
 Author: magicboard
 ---
