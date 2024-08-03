@@ -35,7 +35,7 @@ Currently, committee members are appointed and removed by the committee. There i
 <ul class="post-list">
 {% assign privacyguidesfundminutes = site.privacyguidesfundminutes | sort: 'date' | reverse %}
 {% for minute in privacyguidesfundminutes limit:5 %}
-  <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div> <span class="entry-date"><time datetime="{{ minute.date | date_to_xmlschema }}">{{ minute.date | date: "%B %d, %Y" }}</time></span>{% if minute.excerpt %} <span class="excerpt">{{ minute.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div></a></article></li>
   <hr>
 {% endfor %}
 </ul>
