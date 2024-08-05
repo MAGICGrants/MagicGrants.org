@@ -64,7 +64,7 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 <ul class="post-list">
 {% assign monerofundminutes = site.monerofundminutes | sort: 'date' | reverse %}
 {% for minute in monerofundminutes limit:5 %}
-  <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div> <span class="entry-date"><time datetime="{{ minute.date | date_to_xmlschema }}">{{ minute.date | date: "%B %d, %Y" }}</time></span>{% if minute.excerpt %} <span class="excerpt">{{ minute.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div></a></article></li>
   <hr>
 {% endfor %}
 </ul>
