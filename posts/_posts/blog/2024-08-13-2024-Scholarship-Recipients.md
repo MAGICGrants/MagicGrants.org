@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing our 2024 Scholarship Recipients!"
 excerpt: "Three students were selected for undergraduate scholarships for the 2024-2025 school year."
-date: 2024-07-30
+date: 2024-08-13
 author: magicboard
 ---
 
