@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024 Scholarship Application Is Now Open!"
+title: "2024 Scholarship Application Is Now Open"
 excerpt: "We are distributing three $2,000 scholarships to undergraduate students who are interested in cryptocurrencies."
 date: 2024-02-29
 Author: magicboard

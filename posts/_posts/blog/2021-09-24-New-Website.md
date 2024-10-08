@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New website!"
+title: "New Website"
 excerpt: "Our new website will help MAGIC Grants grow"
 date: 2021-10-01
 author: magicboard

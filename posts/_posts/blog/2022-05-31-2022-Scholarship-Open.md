@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 Scholarship Applications Are Now Open!"
+title: "2022 Scholarship Applications Are Now Open"
 excerpt: "We are distributing three $1,000 scholarships to undergraduate students who are interested in cryptocurrencies."
 Author: magicboard
 ---

@@ -13,9 +13,9 @@ MAGIC Grants's mission is to continue improving the cryptocurrency and privacy e
 
 ## Board
 
-* Justin Ehrenhofer, President
-* John Murphy, Vice President
-* Matt Shroyer, Treasurer and Secretary
+* Justin Ehrenhofer, President and Secretary
+* John Murphy, Vice President and Treasurer
+* Tyler AtHeartEngineer
 
 ## Documentation
 
