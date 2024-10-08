@@ -6,17 +6,6 @@ date: 2024-10-08
 author: magicboard
 ---
 
-We are excited that Tyler joined the MAGIC Grants board of directors in June 2024.
-
-Tyler, known online as AtHeartEngineer, is a thought leader and development lead at Privacy and Scaling Explorations, a cryptography research and development team within the Ethereum Foundation. With over 20 years of experience in technical fields—including more than 12 years in research and development—he brings extensive expertise in software development, systems engineering, and cybersecurity. Tyler is passionate about advancing privacy technologies and cryptography.
-
-With Tyler, MAGIC Grants has a much stronger opportunity to support privacy efforts in the Ethereum ecosystem.
-
-Matt Shroyer stepped down as a board member in July after serving MAGIC Grants for six years. We are incredibly thankful to Matt for his contributions to our organization during this time.
-
-John Murphy will serve as the Treasurer. Justin Ehrenhofer will serve as the Secretary.
-
-
 ## Tyler's Expertise and Impact on MAGIC Grants
 
 We are thrilled to announce that Tyler, known online as AtHeartEngineer, has joined the MAGIC Grants board of directors. Tyler brings a wealth of experience and a deep passion for privacy technologies to our organization.
