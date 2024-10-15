@@ -7,7 +7,7 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 * [Monero Fund Document](/funds/monero/monero_fund)
 * [MAGIC Grants Policies](/about/documentation)
-* [Voting Process](/funds/voting/)
+* [Voting Process](/funds/voting)
 
 ## Donate
 
