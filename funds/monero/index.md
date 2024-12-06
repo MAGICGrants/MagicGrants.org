@@ -11,20 +11,20 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 ## Donate
 
-Donate to the committee and projects here: [MoneroFund.org](https://monerofund.org)
+Donate to the committee and projects here: [donate.magicgrants.org/monero](https://donate.magicgrants.org/monero)
 
 ## Upcoming Dates
 
-The next election cycle will occur in December 2024 and January 2025.
-
 <!--
-* 5 December 2023: Committee and voter nominations open
-* 31 December 2023: Committee and voter nominations close
-* 6 January 2024: Voting opens
-* 20 January 2024: Voting closes
-* ~23 January 2024: Election results announced
-* 31 January 2024: Newly elected members join the committee
+The next election cycle will occur in December 2024 and January 2025.
 -->
+
+* 5 December 2024: Committee and voter nominations open
+* 31 December 2024: Committee and voter nominations close
+* 6 January 2025: Voting opens
+* 20 January 2025: Voting closes
+* ~23 January 2025: Election results announced
+* 31 January 2025: Newly elected members join the committee
 
 ## Committee Candidates and Voter Nominations
 
@@ -36,8 +36,8 @@ Committee Members:
 * monerobull (term until 2025-01)
 * artlimber (term until 2025-01)
 * kowalabearhugs (term until 2025-01)
-* Rucknium (term until 2026-01)
-* kayabaNerve (term until 2026-01)
+* Rucknium (term until 2025-01)
+* kayabaNerve (term until 2025-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
@@ -57,7 +57,7 @@ Committee Members:
 
 ## Other ways to contribute
 
-Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
+Donate cryptocurrency and fiat at [donate.magicgrants.org/monero](https://donate.magicgrants.org/monero).
 
 ## Committee Minutes
 
