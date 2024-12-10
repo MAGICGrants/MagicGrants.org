@@ -13,7 +13,7 @@ MAGIC Grants has a dedicated fundraising campaign site that lists all of our act
 
 If you wish to make a general donation with credit/debit that MAGIC Grants will allocate to the most important project at the time, we encourage you to donate with the PayPal Giving Fund, since there are no fees for us to accept the donation.
 
-[Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637){: .btn-primary}
+[Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637){: .btn-secondary}
 
 ## Other Donation Options
 
