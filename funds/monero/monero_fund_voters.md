@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2024-01-01*
+*Updated 2025-01-05*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
@@ -15,6 +15,7 @@ title: "MAGIC Monero Fund Voters"
 * Bellamy
 * blankpage
 * bobbieweirder
+* Brandon Salcido
 * carrington
 * cbster
 * charuto
@@ -38,6 +39,7 @@ title: "MAGIC Monero Fund Voters"
 * JR
 * Kavaliro
 * kayabaNerve
+* Kim J
 * kinghat
 * Kitsune333
 * koe
@@ -59,6 +61,8 @@ title: "MAGIC Monero Fund Voters"
 * Ornery_Maintenance
 * Paul Janowitz
 * plowsof
+* preland
+* privacyOG
 * PsYcK
 * Rucknium
 * Sean O'Brien
