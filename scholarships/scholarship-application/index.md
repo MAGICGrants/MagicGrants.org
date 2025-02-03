@@ -5,7 +5,7 @@ title: MAGIC Grants Cryptocurrency Scholarship Application
 
 ## Applications Will Open in Spring 2025
 
-Please check back later! You can [join our Discord](https://discord.gg/YH7kFuREKY) in the meantime.
+Please check back later! You can [join our newsletters](https://listmonk.magicgrants.org/subscription/form) in the meantime.
 
 
 <!--
@@ -22,8 +22,6 @@ Click on the link below to view the full scholarship instructions. If you need a
 [Apply on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSebLtxLxWATwmXR6_WqAajLw1nHmwCOmk4UGD0Nzn-8vu_YJA/viewform){: .btn-primary}
 
 Don't have a Google account? [See the instructions here](/scholarships/scholarship-application/2024-Scholarship-Application.pdf). You can submit the relevant information by email to [applications@magicgrants.org](mailto:applications@magicgrants.org), or contact us for other submission options.
-
-You can also ask questions on [our Discord](https://discord.gg/YH7kFuREKY).
 
 Good luck, and thanks for applying!
 -->
