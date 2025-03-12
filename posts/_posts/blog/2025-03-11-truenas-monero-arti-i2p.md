@@ -27,7 +27,7 @@ The Monero Node app allows users to easily install and run a Monero Node (monero
 
 Monero users receive significant privacy benefits when using their own node instead of a third-party node. Further, using a trusted node unlocks performance improvements.
 
-If you wish to remotely sync your wallets to your node, we strongly suggest setting up TLS with the Nginx Proxy Manager app. It is unwise to use the RPC commands over an unencrypted connection.
+If you wish to remotely sync your wallets to your node, we strongly suggest setting up a secure connection with the Nginx Proxy Manager or Wireguard app. It is unwise to use the RPC commands over an unencrypted connection.
 
 Future versions of this app will allow easy configuration of incoming Tor and I2P RPC connections.
 
