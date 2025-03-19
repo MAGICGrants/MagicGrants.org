@@ -6,7 +6,7 @@ date: 2025-03-18
 author: magicboard
 ---
 
-MAGIC Grants now accepts Litecoin and Litecoin MWEB (MimbleWimble) donations directly on [our donation website](https://donate.magicgrants.org)!
+MAGIC Grants now accepts Litecoin and Litecoin MWEB (MimbleWimble extension blocks) donations directly on [our donation website](https://donate.magicgrants.org)!
 
 As far as we know, we are the first registered charity to accept Litecoin MWEB donations with an automated system.
 
@@ -22,7 +22,7 @@ Litecoin is one of the oldest decentralized cryptocurrencies, dating back to 201
 
 Litecoin MWEB transactions have a hidden transfer amount, and they usually have greater transaction graph privacy than Litecoin mainnet transactions. However, their privacy is not absolute.
 
-LTC mainnet funds can be trustlessly "pegged" into and out of the MWEB sidechain. The MWEB technology was first proposed for Bitcoin and is also used in Grin.
+LTC mainnet funds can be trustlessly "pegged" into and out of the MWEB sidechain. The MimbleWimble technology was first proposed for Bitcoin and is also used in Grin, although the specifics of each implementation vary.
 
 Litecoin MWEB has limited adoption, and we hope that more merchants accept Litecoin MWEB in the near future. As of March 18, 2025, the LTC balance held in MWEB addresses is 124,000 according to [MWEBExplorer](https://www.mwebexplorer.com/), or about 0.16% of the current LTC supply.
 
