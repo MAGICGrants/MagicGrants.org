@@ -38,7 +38,7 @@ Everything is open-source and self-custody!
 
 ## Special Thanks
 
-We would like to thank [Hector Chu](https://github.com/hectorchu) for their extensive efforts on Litecoin MWEB related work. We could not accept Litecoin MWEB at scale without them!
+We would like to thank [Hector Chu](https://github.com/hectorchu) for his extensive efforts on Litecoin MWEB related work. We could not accept Litecoin MWEB at scale without him!
 
 We would like to thank the [Litecoin Foundation](https://litecoin.com/litecoin-foundation) for supporting MWEB.
 
