@@ -46,7 +46,7 @@ We would like to thank [Cake Wallet](https://cakewallet.com) and [Seth for Priva
 
 ## About MAGIC Grants
 
-MAGIC Grants is a 5019(c)(3) public charity that supports privacy and cryptocurrency infrastructure. Your donation may qualify for a tax deduction.
+MAGIC Grants is a 501(c)(3) public charity that supports privacy and cryptocurrency infrastructure. Your donation may qualify for a tax deduction.
 
 MAGIC Grants accepts cryptocurrency and cash donations.
 
