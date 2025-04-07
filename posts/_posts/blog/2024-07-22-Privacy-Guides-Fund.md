@@ -24,4 +24,4 @@ By nestling Privacy Guides under a MAGIC Privacy Guides Fund, the Privacy Guides
 
 ## About MAGIC Grants
 
-MAGIC Grants is a 501(c)(3) public charity that provides undergraduate scholarships for students interested in cryptocurrencies and privacy, supports public cryptocurrency infrastructure, and supports privacy. The MAGIC Privacy Guides Fund furthers our mission of providing educational materials around privacy.
+MAGIC Grants is a 501(c)(3) public charity that provides undergraduate scholarships for students interested in cryptocurrencies and privacy, supports public cryptocurrency infrastructure, and promotes privacy. The MAGIC Privacy Guides Fund furthers our mission of providing educational materials around privacy.
