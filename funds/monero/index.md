@@ -37,8 +37,6 @@ Committee Members:
 * ack-j (term until 2027-01)
 * kowalabearhugs (term until 2027-01)
 * rottenwheel (term until 2026-01)
-* Tacolopo (term until 2026-01)
-* XMRfamily (term until 2026-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
