@@ -23,7 +23,7 @@ We would like to give a special thanks to the TrueNAS Apps repository maintainer
 
 ## Monero-LWS
 
-Monero-LWS allows "lightweight" Monero wallets such as Edge Wallet and MyMonero to offload scanning/syncing needs to this Monero-LWS server. Instead of your wallet needing to sync when you open it, Monero-LWS continuously scans for new transactions in the baackground. Thus, your lightweight Monero wallet is instantly ready to spend without compromising your privacy or consuming your bandwidth.
+Monero-LWS allows "lightweight" Monero wallets such as Edge Wallet and MyMonero to offload scanning/syncing needs to this Monero-LWS server. Instead of your wallet needing to sync when you open it, Monero-LWS continuously scans for new transactions in the background. Thus, your lightweight Monero wallet is instantly ready to spend without compromising your privacy or consuming your bandwidth.
 
 ## Bitcoin Node
 
