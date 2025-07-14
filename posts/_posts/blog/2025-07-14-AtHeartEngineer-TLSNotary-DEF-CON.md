@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAGIC Board Member AtHeartEngineer to Lead TLSNotary Workshop at DEF CON 33"
+title: "Board Member AtHeartEngineer to Lead TLSNotary Workshop at DEF CON 33"
 excerpt: "AtHeartEngineer will present about TLSNotary at DEF CON 33"
 date: 2025-07-14
 Author: magicboard
