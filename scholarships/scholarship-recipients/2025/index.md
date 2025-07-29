@@ -5,8 +5,8 @@ title: MAGIC Grants Cryptocurrency Scholarship 2024-2025 Recipients
 
 MAGIC Grants is pleased to announce our 2024 scholarship recipients! These three individuals wished to be recognized.
 
-* Lily Chen - Massachusetts Institute of Technology Senior
+* Udit Kastwar - KIET Group of Institutions Sophomore
 
-* Javier Leon Martinez - George Mason University Senior
+* Rifah Maulidya - Indiana University Bloomington Freshman
 
-* Sourish Vankadari - Rutgers University–New Brunswick Sophomore
+* Mateo Patiño - Columbia University Freshman
