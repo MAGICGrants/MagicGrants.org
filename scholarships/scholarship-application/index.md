@@ -8,7 +8,7 @@ title: MAGIC Grants Cryptocurrency Scholarship Application
 
 Please check back later! You can join our newsletter to be informed when the application opens.
 
-[Join Newsletter]([/scholarships/scholarship-application](https://listmonk.magicgrants.org/subscription/form)){: .btn-primary}
+[Join Newsletter](https://listmonk.magicgrants.org/subscription/form){: .btn-primary}
 
 <!--
 ## The 2025-2026 Application Is Now Open
