@@ -18,4 +18,4 @@ Veridise found one Warning severity issue and one Information severity issue. Bo
 
 This review furthers MAGIC Grants's charitable mission to support public payment infrastructure. Thank you to the Monero community for supporting this review.
 
-[Read the Audit Report](https://veridise.com/audits-archive/company/monero-research-lab/magic-grants-monero-fcmp-2025-06-03/){: .btn-primary} [Read the Picus Translator](https://github.com/Veridise/fcmp-plus-plus/tree/picus/crypto/fcmps/circuit-abstraction){: .btn-secondary}
+[Read the Audit Report](https://veridise.com/audits-archive/company/monero-research-lab/magic-grants-monero-fcmp-2025-06-03/){: .btn-primary} [View the Picus Translator](https://github.com/Veridise/fcmp-plus-plus/tree/picus/crypto/fcmps/circuit-abstraction){: .btn-secondary}
