@@ -10,7 +10,7 @@ MAGIC Grants contracted [HashCloak](https://hashcloak.com/) to write security pr
 
 In simple terms, HashCloak provided security proofs for the streamlined communication method proposed by the Serai project. This communication is how Serai nodes ensure they properly create the keys for multisignature wallets with robust properties. With this work, the key generation can efficiently occur with only one round of communication while still preserving security, instead of the two or three rounds that were required before.
 
-Hernán Darío Vanegas Madrigal from HashCloak formalized the non-interactive verififiable encryption scheme. Luke Parker proposed the original scheme.
+Hernán Darío Vanegas Madrigal from HashCloak formalized the non-interactive verifiable encryption scheme. Luke Parker proposed the original scheme.
 
 We would like to thank HashCloak for their efforts to ensure safe communication. We would like to thank Power Up Privacy for their donation that made this review possible.
 
