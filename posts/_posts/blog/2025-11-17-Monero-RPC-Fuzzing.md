@@ -18,7 +18,7 @@ This proposal sought a more proactive approach to catch these vulnerabilities be
 
 ## Deliverables
 
-ADA Logics submitted a [pull request](https://github.com/monero-project/monero/pull/10004) to the Monero repository, which was merged into main.
+ADA Logics submitted a [pull request](https://github.com/monero-project/monero/pull/10004) to the Monero repository adding RPC fuzzing harnesses.
 
 ADA Logics created an [end-to-end Python-based fuzzing harness](https://github.com/AdaLogics/monero-e2e-fuzzing) to target a live Monero daemon.
 
@@ -40,7 +40,7 @@ We appreciate the Monero developers' quick response in deploying fixes to addres
 
 ## Continuous Scanning
 
-ADA Logics improved the Monero tests and configured [Google's OSS-Fuzz](https://github.com/google/oss-fuzz) to regularly test the Monero Node RPC endpoints. The improvements increased the code coverage to [roughly 22%](https://introspector.oss-fuzz.com/project-profile?project=monero), which is a substantial increase from the 10% coverage that existed before this project. These harnesses will continuously be fuzzed as new code is merged with large amounts of compute donated by the Google OSS-Fuzz team.
+ADA Logics improved the Monero tests and configured [Google's OSS-Fuzz](https://github.com/google/oss-fuzz) to regularly test the Monero Node RPC endpoints. The improvements increased the overall code coverage to [roughly 22%](https://introspector.oss-fuzz.com/project-profile?project=monero), which is a substantial increase from the 10% coverage that existed before this project. These harnesses will continuously be fuzzed as new code is merged with large amounts of compute donated by the Google OSS-Fuzz team.
 
 [![Screenshot of Fuzzing Coverage Chart](/img/posts/2025-11-17-fuzzing-chart.png)](/img/posts/2025-11-17-fuzzing-chart.png)
 
