@@ -47,4 +47,4 @@ ADA Logics improved the Monero tests and configured [Google's OSS-Fuzz](https://
 
 ## Next Steps
 
-We aim to further improve Monero's fuzzing coverage where it is reasonable to do so. Our immediate targets include crypto, p2p and the new fcmp++ code.
+We aim to further improve Monero's fuzzing coverage where it is reasonable to do so. Our immediate targets include crypto, p2p, wallet and the new fcmp++ code.
