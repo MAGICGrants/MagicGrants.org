@@ -6,6 +6,8 @@ date: 2025-11-24
 Author: magicboard
 ---
 
+[![Skylight Wallet Logo](/img/posts/2025-11-24-skylight-wallet-logo.png)](/img/posts/2025-11-24-skylight-wallet-logo.png)
+
 MAGIC Grants is excited to announce [Skylight Wallet](https://skylight.magicgrants.org), a modern, open-source, and self-custody Monero light-wallet.
 
 Skylight Wallet is available today on Android, and it will be available soon on iOS and desktop.
