@@ -10,9 +10,7 @@ MAGIC Grants is excited to announce [Skylight Wallet](https://skylight.magicgran
 
 Skylight Wallet is available today on Android, and it will be available soon on iOS and desktop.
 
-[Google Play](https://play.google.com/store/apps/details?id=org.magicgrants.skylight){: .btn-primary}
-
-[GitHub APK](https://github.com/magicgrants/skylight-wallet){: .btn-secondary}
+[Google Play](https://play.google.com/store/apps/details?id=org.magicgrants.skylight){: .btn-primary}   [GitHub APK](https://github.com/magicgrants/skylight-wallet){: .btn-secondary}
 
 Skylight Wallet requires a user to provide their own light-wallet server (LWS). We do not operate our own server or provide one by default (we don't want your view keys). If you do not already have a home server, we suggest [reading our guide](https://www.privacyguides.org/articles/2025/06/12/monero-server-using-truenas/) on how to set one up with TrueNAS.
 
