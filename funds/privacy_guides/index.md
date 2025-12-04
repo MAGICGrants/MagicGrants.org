@@ -18,7 +18,7 @@ Privacy Guides offers a membership that includes early access to certain materia
 
 The MAGIC Privacy Guides Fund has a shop where you can support them by purchasing merchandise.
 
-[Privacy Guides Shop](https://shop.monerofund.org){: .btn-secondary}
+[Privacy Guides Shop](https://shop.privacyguides.org){: .btn-secondary}
 
 ## Donate
 
