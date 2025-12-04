@@ -13,19 +13,25 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 Donate to the committee and projects here: [donate.magicgrants.org/monero](https://donate.magicgrants.org/monero)
 
+## Merchandise
+
+The MAGIC Monero Fund has a shop where you can support them by purchasing merchandise.
+
+[Monero Fund Shop](https://shop.monerofund.org){: .btn-secondary}
+
 ## Upcoming Dates
 
 
-The next election cycle will occur in December 2025 and January 2026.
+<!-- The next election cycle will occur in December 2025 and January 2026. -->
 
-<!--
-* 5 December 2024: Committee and voter nominations open
-* 31 December 2024: Committee and voter nominations close
-* 6 January 2025: Voting opens
-* 20 January 2025: Voting closes
-* ~23 January 2025: Election results announced
-* 31 January 2025: Newly elected members join the committee
--->
+
+* 5 December 2025: Committee and voter nominations open
+* 31 December 2025: Committee and voter nominations close
+* 6 January 2026: Voting opens
+* 20 January 2026: Voting closes
+* ~23 January 2026: Election results announced
+* 31 January 2026: Newly elected members join the committee
+
 
 ## Committee Candidates and Voter Nominations
 
@@ -42,6 +48,7 @@ Committee Members:
 
 ## MAGIC Monero Fund Achievements
 
+* Improved [Monero fuzzing](https://magicgrants.org/2025/11/17/Monero-RPC-Fuzzing)
 * Built open source crowdfunding platform [MoneroFund.org](https://monerofund.org) (which was later expanded into [donate.magicgrants.org](https://donate.magicgrants.org))
 * Funded [Security Audit of Ring Signature Resiliency Against Machine/Deep Learning Attacks](https://github.com/MAGICGrants/Monero-Fund/issues/15) by ACK-J for $12,000
 * Funded [4 months of ETH-XMR atomic swap research and development](https://www.gofundme.com/f/noot-ethxmr-atomic-swap-development-4-months) by noot for $23,477

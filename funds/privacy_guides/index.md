@@ -8,11 +8,21 @@ MAGIC Grants is pleased to host the [Privacy Guides](https://privacyguides.org) 
 * [Privacy Guides Fund Document](/funds/privacy_guides/privacy_guides_fund)
 * [MAGIC Grants Policies](/about/documentation)
 
+## Membership
+
+Privacy Guides offers a membership that includes early access to certain materials, special recognition on [their forum](https://discuss.privacyguides.org), and other benefits.
+
+[Become a Member](https://donate.magicgrants.org/privacyguides/membership){: .btn-primary}
+
+## Merchandise
+
+The MAGIC Privacy Guides Fund has a shop where you can support them by purchasing merchandise.
+
+[Privacy Guides Shop](https://shop.monerofund.org){: .btn-secondary}
+
 ## Donate
 
 Donate to the committee and projects here: [donate.magicgrants.org/privacyguides](https://donate.magicgrants.org/privacyguides)
-
-Consider being a member, which entitles you to various perks.
 
 ## Committee Members
 

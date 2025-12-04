@@ -9,6 +9,12 @@ MAGIC Grants has a dedicated fundraising campaign site that lists all of our act
 
 [View Our Campaign Site](https://donate.magicgrants.org){: .btn-primary}
 
+## Merchandise Shops
+
+The MAGIC Privacy Guides Fund and the MAGIC Monero Fund have shops where you can support them by purchasing merchandise.
+
+[Privacy Guides Shop](https://shop.privacyguiides.org){: .btn-secondary}   [Monero Fund Shop](https://shop.monerofund.org){: .btn-secondary}
+
 ## General Donations in Credit/Debit
 
 If you wish to make a general donation with credit/debit that MAGIC Grants will allocate to the most important project at the time, we encourage you to donate with the PayPal Giving Fund, since there are no fees for us to accept the donation.

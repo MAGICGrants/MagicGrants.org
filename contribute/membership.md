@@ -5,6 +5,8 @@ title: "Membership"
 
 MAGIC Grants has paused memberships. If you are interested in a membership program, please contact info@magicgrants.org.
 
+MAGIC Funds may have their own membership programs.
+
 <!---
 MAGIC Grants is pleased to [offer memberships](https://magicgrants.budibase.app/app/new-member#/home)! Memberships come with special perks and recognition. Allocate your donation to MAGIC Grants or to a MAGIC Fund of your choice!
 
