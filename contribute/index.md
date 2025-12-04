@@ -13,7 +13,7 @@ MAGIC Grants has a dedicated fundraising campaign site that lists all of our act
 
 The MAGIC Privacy Guides Fund and the MAGIC Monero Fund have shops where you can support them by purchasing merchandise.
 
-[Privacy Guides Shop](https://shop.privacyguiides.org){: .btn-secondary}   [Monero Fund Shop](https://shop.monerofund.org){: .btn-secondary}
+[Privacy Guides Shop](https://shop.privacyguides.org){: .btn-secondary}   [Monero Fund Shop](https://shop.monerofund.org){: .btn-secondary}
 
 ## General Donations in Credit/Debit
 
