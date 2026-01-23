@@ -40,6 +40,14 @@ Here are some handy tips to set up the voting process:
 * Use the info@magicgrants.org email as the supervisor. Do not use a Fund email (eg: MoneroFund@magicgrants.org) since this will give improper permissions to the committee members.
 * Add the proper day and time that the poll will stop. Polls need to be stopped manually by the supervisor (you).
 * Description should link to relevant materials, such as the GitHub issues where candidates are listed, and/or a summary blog post.
+
+Example:
+```
+The MAGIC Monero Fund is electing <b>one</b> member for a two-year term. This person will join two other committee members whose term expires the following year.
+<br><br>
+Please carefully review the candidates' backgrounds before voting: <a>https://github.com/MAGICGrants/Monero-Fund-Elections/issues</a>
+```
+
 * Enter the names of each candidate, one per line. You can optionally upload a file, but it's unlikely you will have enough choices to warrant this.
 * Check the candidate details again for accuracy.
 * Change the number of winning choices to the appropriate number.
