@@ -32,3 +32,4 @@ collections:
 include:
   - .well-known
   - _redirects
+  - files
