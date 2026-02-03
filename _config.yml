@@ -32,4 +32,14 @@ collections:
 include:
   - .well-known
   - _redirects
+
+# Explicitly try to keep the files folder
+keep_files:
   - files
+
+# Do not process files folder
+defaults:
+  - scope:
+      path: "files"
+    values:
+      layout: null
