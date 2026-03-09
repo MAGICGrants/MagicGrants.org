@@ -20,7 +20,7 @@ Zellic is clear on the V12 website that the AI tool is "not an official Zellic a
 
 Zellic co-founder Luna Tong [recently shared](https://x.com/gf_256/status/2028682761234485753) that V12 scored 70.6% on EVMBench detect. [EVMBench](https://openai.com/index/introducing-evmbench/) is a benchmark created by OpenAI and Paradigm that "evaluat[es] the ability of AI agents to detect, patch, and exploit high-severity smart contract vulnerabilities."
 
-MAGIC Grants added the Serai Ethereum smart contract to V12 to see how it would perform. A good AI tool would accurately report potential vulnerabilities while avoiding false positives.
+MAGIC Grants [added the Serai Ethereum smart contract](https://github.com/justin-v12-zellic/serai/tree/next-polkadot-sdk) to V12 to see how it would perform. A good AI tool would accurately report potential vulnerabilities while avoiding false positives.
 
 While the cost of the AI review was effectively nothing ($5.66 of a $50 free credit), sadly the value of the review was also zero.
 
