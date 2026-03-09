@@ -28,6 +28,8 @@ V12 reported four vulnerabilities, two of which it marked as "invalid" automatic
 
 This is not a hit piece on the creators of this tool. We support high quality, battle-tested software, and we support efforts to increase security. Other security research firms are also experimenting with AI. However, it's clear that this tool will not undermine their primary line of business; human reviews and expertise are still necessary.
 
+We reached out to Zellic, and they did not provide a comment.
+
 Let's get into the report.
 
 ## The Critical-Severity False Positive
