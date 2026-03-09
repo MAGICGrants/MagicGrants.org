@@ -8,7 +8,7 @@ author: magicboard
 
 > A specialized smart contract auditing AI tool made up a bug and suggested introducing the same critical vulnerability to fix it.
 
-Last year, MAGIC Grants raised funds for and [contracted](/2025-06-06-Serai-Ethereum-Smart-Contract) a human-led review of an Ethereum smart contract.
+Last year, MAGIC Grants raised funds for and [contracted](/2025/06/06/Serai-Ethereum-Smart-Contract) a human-led review of an Ethereum smart contract.
 
 Like most audits, it paid dividends. While the auditors found that the code in scope followed best practices for development and was well documented, [the review](https://github.com/trailofbits/publications/blob/master/reviews/2025-04-serai-dex-security-review.pdf) produced two information-severity findings and three code quality suggestions. Zero high, medium, and low-severity findings were discovered.
 
