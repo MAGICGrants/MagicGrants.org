@@ -22,15 +22,15 @@ The MAGIC Monero Fund has a shop where you can support them by purchasing mercha
 ## Upcoming Dates
 
 
-<!-- The next election cycle will occur in December 2025 and January 2026. -->
+The next election cycle will occur in December 2026 and January 2027.
 
 
-* 5 December 2025: Committee and voter nominations open
+<!-- * 5 December 2025: Committee and voter nominations open
 * 31 December 2025: Committee and voter nominations close
 * 6 January 2026: Voting opens
 * 20 January 2026: Voting closes
 * ~23 January 2026: Election results announced
-* 31 January 2026: Newly elected members join the committee
+* 31 January 2026: Newly elected members join the committee -->
 
 
 ## Committee Candidates and Voter Nominations
@@ -42,7 +42,7 @@ The MAGIC Monero Fund has a shop where you can support them by purchasing mercha
 Committee Members:
 * ack-j (term until 2027-01)
 * kowalabearhugs (term until 2027-01)
-* rottenwheel (term until 2026-01)
+* Zach from Unredacted (term until 2028-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
