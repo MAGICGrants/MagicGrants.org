@@ -13,7 +13,7 @@ Please check back later! You can join our newsletter to be informed when the app
 <!--
 ## The 2025-2026 Application Is Now Open
 
-MAGIC Grants offers undergraduate scholarships to students who are interested in cryptocurrencies. This year, three (3) recipients will each receive $2,000 paid directly to the educational institution.
+MAGIC Grants offers scholarships to undergraduate students who are interested in cryptocurrencies. This year, three (3) recipients will each receive $2,000 paid directly to the educational institution.
 
 We welcome worldwide applicants, not just US students!
 

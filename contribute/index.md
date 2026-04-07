@@ -44,3 +44,9 @@ To learn more about MAGIC Funds, please [click here](/funds).
 At MAGIC Grants, we help to redirect some of the wealth generated in the cryptocurrency world back towards improving the ecosystem. Our goals are simple. With your help, we can make it cheaper to go to college for some folks interested in studying cryptocurrencies. These students need initial support from the cryptocurrency community to know that it is welcoming.
 
 Your donations also support critical infrastructure improvements for public payment networks such as Bitcoin and Monero.
+
+## View MAGIC Grants Finances
+
+You can view a summary of MAGIC Grants finances and our MAGIC Fund balances on our Google Sheet. The sheet is updated approximately once a month and may be subject to corrections.
+
+[Finances Summary Sheet](https://magicgrants.org/finances){: .btn-secondary}

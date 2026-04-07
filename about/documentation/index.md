@@ -3,7 +3,13 @@ layout: page
 title: "Documentation"
 ---
 
-To request additional documents from MAGIC, please email [info@magicgrants.org](mailto:info@magicgrants.org). You may also look up our public filings with the IRS [here](https://apps.irs.gov/app/eos/detailsPage?ein=825183590&name=Multidisciplinary%20Academic%20Grants%20in%20Cryptocurrencies&city=Littleton&state=CO&countryAbbr=US&dba=&type=CHARITIES,%20COPYOFRETURNS&orgTags=CHARITIES&orgTags=COPYOFRETURNS).
+To request additional documents from MAGIC Grants, please email [info@magicgrants.org](mailto:info@magicgrants.org). You may also look up our public filings with the IRS [here](https://apps.irs.gov/app/eos/detailsPage?ein=825183590&name=Multidisciplinary%20Academic%20Grants%20in%20Cryptocurrencies&city=Littleton&state=CO&countryAbbr=US&dba=&type=CHARITIES,%20COPYOFRETURNS&orgTags=CHARITIES&orgTags=COPYOFRETURNS).
+
+## Current Finances
+
+You can view a summary of MAGIC Grants finances and our MAGIC Fund balances on our Google Sheet. The sheet is updated approximately once a month and may be subject to corrections.
+
+[Finances Summary Sheet](https://magicgrants.org/finances){: .btn-secondary}
 
 ## Annual Reports
 
@@ -17,27 +23,27 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 ## Policies
 
-* [MAGIC Policies Acceptance Sheet](/about/documentation/Policies/MAGIC Policies Acceptance Sheet.pdf)
+* [MAGIC Grants Policies Acceptance Sheet](/about/documentation/Policies/MAGIC Policies Acceptance Sheet.pdf)
 
-* [MAGIC Anti-Discrimination Policy](/about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
+* [MAGIC Grants Anti-Discrimination Policy](/about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
 
-* [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy](/about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
+* [MAGIC Grants Anti-Money Laundering and Counter-Terrorist Financing Policy](/about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
 
-* [MAGIC Code of Ethics](/about/documentation/Policies/MAGIC Code of Ethics.pdf)
+* [MAGIC Grants Code of Ethics](/about/documentation/Policies/MAGIC Code of Ethics.pdf)
 
-* [MAGIC Compensation Policy](/about/documentation/Policies/MAGIC Compensation Policy.pdf)
+* [MAGIC Grants Compensation Policy](/about/documentation/Policies/MAGIC Compensation Policy.pdf)
 
-* [MAGIC Conflict of Interest Policy](/about/documentation/Policies/MAGIC Conflict of Interest Policy.pdf)
+* [MAGIC Grants Conflict of Interest Policy](/about/documentation/Policies/MAGIC Conflict of Interest Policy.pdf)
 
-* [MAGIC Document Retention Policy](/about/documentation/Policies/MAGIC Document Retention Policy.pdf)
+* [MAGIC Grants Document Retention Policy](/about/documentation/Policies/MAGIC Document Retention Policy.pdf)
 
-* [MAGIC Fiscal Policy](/about/documentation/Policies/MAGIC Fiscal Policy.pdf)
+* [MAGIC Grants Fiscal Policy](/about/documentation/Policies/MAGIC Fiscal Policy.pdf)
 
-* [MAGIC Gift Acceptance Policy](/about/documentation/Policies/MAGIC Gift Acceptance Policy.pdf)
+* [MAGIC Grants Gift Acceptance Policy](/about/documentation/Policies/MAGIC Gift Acceptance Policy.pdf)
 
-* [MAGIC Investment Policy](/about/documentation/Policies/MAGIC Investment Policy.pdf)
+* [MAGIC Grants Investment Policy](/about/documentation/Policies/MAGIC Investment Policy.pdf)
 
-* [MAGIC Whistleblower Policy](/about/documentation/Policies/MAGIC Whistleblower Policy.pdf)
+* [MAGIC Grants Whistleblower Policy](/about/documentation/Policies/MAGIC Whistleblower Policy.pdf)
 
 ## Initial Documents
 
