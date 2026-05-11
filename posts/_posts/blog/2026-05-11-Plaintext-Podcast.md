@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our New Plaintext Podcast"
+title: "Our New Podcast: Plaintext"
 excerpt: "This new podcast covers interesting security and privacy related topics in the cryptocurrency ecosystem."
 date: 2026-05-11
 author: magicboard
