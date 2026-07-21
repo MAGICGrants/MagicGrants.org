@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skylight Wallet is Now Available in the Official F-Droid Repository"
+title: "Skylight Wallet is Now Available in the Official F-Droid Repository with Reproducible Builds"
 excerpt: "Skylight Wallet is the first Monero wallet with zero 'anti-features' in the official F-Droid repository"
 date: 2026-07-20
 Author: magicboard
