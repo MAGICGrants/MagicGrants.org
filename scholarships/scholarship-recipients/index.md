@@ -6,6 +6,8 @@ layout: page
 
 This page indexes the scholarship recipients who wished to be recognized publicly. We are inspired by their commitment and interest!
 
+* [2026 Scholarship Recipients](/scholarships/scholarship-recipients/2026)
+
 * [2025 Scholarship Recipients](/scholarships/scholarship-recipients/2025)
 
 * [2024 Scholarship Recipients](/scholarships/scholarship-recipients/2024)

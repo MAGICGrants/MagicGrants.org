@@ -1,9 +1,9 @@
 ---
 layout: page
-title: MAGIC Grants Cryptocurrency Scholarship 2024-2025 Recipients
+title: MAGIC Grants Cryptocurrency Scholarship 2025-2026 Recipients
 ---
 
-MAGIC Grants is pleased to announce our 2024 scholarship recipients! These three individuals wished to be recognized.
+MAGIC Grants is pleased to announce our 2025 scholarship recipients! These three individuals wished to be recognized.
 
 * Udit Kastwar - KIET Group of Institutions Sophomore
 

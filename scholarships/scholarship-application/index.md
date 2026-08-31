@@ -4,14 +4,14 @@ title: MAGIC Grants Cryptocurrency Scholarship Application
 ---
 
 
-<!-- ## The Application Will Open in Spring 2026
+## The Application Will Open in Spring 2027
 
 Please check back later! You can join our newsletter to be informed when the application opens.
 
-[Join Newsletter](https://listmonk.magicgrants.org/subscription/form){: .btn-primary} -->
+[Join Newsletter](https://listmonk.magicgrants.org/subscription/form){: .btn-primary}
 
 
-## The 2026-2027 Application Is Now Open
+<!-- ## The 2026-2027 Application Is Now Open
 
 MAGIC Grants offers undergraduate scholarships to students who are interested in cryptocurrencies. This year, three (3) recipients will each receive $2,000 paid directly to the educational institution.
 
@@ -25,4 +25,4 @@ Click on the link below to view the full scholarship instructions. If you need a
 
 Don't have a Google account? [See the instructions here](/scholarships/scholarship-application/2026-Scholarship-Application.pdf). You can submit the relevant information by email to [applications@magicgrants.org](mailto:applications@magicgrants.org), or contact us for other submission options.
 
-Good luck, and thanks for applying!
+Good luck, and thanks for applying! -->
