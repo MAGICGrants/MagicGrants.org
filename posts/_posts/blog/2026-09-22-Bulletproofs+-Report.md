@@ -12,7 +12,7 @@ Within minutes, MAGIC Grants hosted a remediation call with Monero researchers a
 
 The MAGIC Grants board of directors immediately approved an expanded research contract for Dr. Wang and Dr. Liu to independently review the suitability of Monero's use of Bulletproofs+. Simultaneously, we evaluated possible "worst case" scenarios to determine the required remediation steps should Monero's use have been deemed unsafe.
 
-We are pleased that after their review, which includes new security proofs, ***the Monero network is not vulnerable*** as a result of the issues identified with the original Bulletproof+ aggregate range proofs.
+We are pleased that after their review, which includes new security proofs, ***the Monero network is not vulnerable*** as a result of the issues identified with the original Bulletproofs+ aggregate range proofs.
 
 MAGIC Grants is grateful to the MAGIC Monero Fund for commissioning the initial research project that led to the identified issue, we are grateful to Dr. Wang for identifying and raising the issue, and we are grateful to Luke Parker and Dr. Goodell for their help in triaging this issue.
 
