@@ -128,31 +128,38 @@ Below is a list of documents that relate to the divisors technique. MAGIC Grants
 
 ### Eagen
 
-[2022-05 "Zero Knowledge Proofs of Elliptic Curve Inner Products from Principal Divisors and Weil Reciprocity"](https://eprint.iacr.org/2022/596){: .btn-secondary}
+[2022-05 Original Paper](https://eprint.iacr.org/2022/596 "Zero Knowledge Proofs of Elliptic Curve Inner Products from Principal Divisors and Weil Reciprocity"){: .btn-secondary}
+{: .btn-list}
 
 ### Veridise
 
-These documents were produced to further substantiate Eagen's approach:
+These documents by Bassa were produced to further substantiate Eagen's approach:
 
-[2024-06 "Soundness Proof for Eagen's Proof of Sums of Points" by Bassa](/files/2024-06-23-veridise-monero-proof.pdf){: .btn-secondary}
-[2024-08 "Notes on the R1CS Gadget for Providing Discrete Logarithm Proofs" by Bassa](/files/2024-08-08-veridise-monero-gadget.pdf){: .btn-secondary}
-[2024-11 "On the Use of Logarithmic Derivatives in Eagen's Proof of Sums of Points" by Bassa](/files/2024-11-09-veridise-monero-logarithmic-derivatives.pdf){: .btn-secondary}
-[2025-02 "Soundness Proof for an Interactive Protocol for the Discrete Logarithm Relation" by Bassa](/files/2025-02-14-veridise-monero-soundness.pdf){: .btn-secondary}
+[2024-06 Soundness Proof](/files/2024-06-23-veridise-monero-proof.pdf "Soundness Proof for Eagen's Proof of Sums of Points"){: .btn-secondary}
+[2024-08 R1CS Gadget Notes](/files/2024-08-08-veridise-monero-gadget.pdf "Notes on the R1CS Gadget for Providing Discrete Logarithm Proofs"){: .btn-secondary}
+[2024-11 Logarithmic Derivatives](/files/2024-11-09-veridise-monero-logarithmic-derivatives.pdf "On the Use of Logarithmic Derivatives in Eagen's Proof of Sums of Points"){: .btn-secondary}
+[2025-02 Discrete Log Soundness Proof](/files/2025-02-14-veridise-monero-soundness.pdf "Soundness Proof for an Interactive Protocol for the Discrete Logarithm Relation"){: .btn-secondary}
+{: .btn-list}
 
 These documents were produced by Veridise in response to Cypher Stack's SLVer Bullet paper:
 
-[2025-07 "Response to 'A Further Review of the DL Gadget Of Interest' by Goodell, Salazar, Slaughter, Szramowski"](/files/2025-07-11-Cypher_Stack_Response.pdf){: .btn-secondary}
-[2025-07 "Results of a First Review of 'SLVer Bullet: Straight-Line Verification for Bulletproofs' by Goodell, Salazar, Slaughter, Szramowski"](/files/2025-07-11-SLVer_Bullet_Annotated.pdf){: .btn-secondary}
-[2025-07 "log_deriv" PDF](/files/2025-07-11-log_deriv.pdf){: .btn-secondary}
-[2025-07 "log_deriv" Jupyter Notebook](/files/2025-07-11-log_deriv.ipynb){: .btn-secondary}
+[2025-07 Response to DL Gadget Review](/files/2025-07-11-Cypher_Stack_Response.pdf "Response to 'A Further Review of the DL Gadget Of Interest' by Goodell, Salazar, Slaughter, Szramowski"){: .btn-secondary}
+[2025-07 SLVer Bullet Review](/files/2025-07-11-SLVer_Bullet_Annotated.pdf "Results of a First Review of 'SLVer Bullet: Straight-Line Verification for Bulletproofs' by Goodell, Salazar, Slaughter, Szramowski"){: .btn-secondary}
+[2025-07 log_deriv PDF](/files/2025-07-11-log_deriv.pdf){: .btn-secondary}
+[2025-07 log_deriv Notebook](/files/2025-07-11-log_deriv.ipynb){: .btn-secondary}
+{: .btn-list}
 
 ### Cypher Stack
 
-[2025-03 "A Review of Soundness of Divisors-based Proofs" by Goodell, Salazar, Slaughter, Szramowski](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/sum_of_points.pdf){: .btn-secondary}
-[2025-05 "A Further Review of the DL Gadget Of Interest" by Goodell, Salazar, Slaughter, Szramowski](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/follow_up.pdf){: .btn-secondary}
-[2025-06 "SLVer Bullet: Straight-Line Verification for Bulletproofs" by Goodell, Salazar, Slaughter, Szramowski](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/silverbullet.pdf){: .btn-secondary}
+These documents are by Goodell, Salazar, Slaughter, and Szramowski:
+
+[2025-03 Soundness Review](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/sum_of_points.pdf "A Review of Soundness of Divisors-based Proofs"){: .btn-secondary}
+[2025-05 DL Gadget Review](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/follow_up.pdf "A Further Review of the DL Gadget Of Interest"){: .btn-secondary}
+[2025-06 SLVer Bullet](https://github.com/cypherstack/divisor_deep_dive/blob/main/pdfs/silverbullet.pdf "SLVer Bullet: Straight-Line Verification for Bulletproofs"){: .btn-secondary}
+{: .btn-list}
 
 ### zkSecurity
 
-[2026-04 "Notes and Proofs for Divisor Techniques"](/files/2026-04-27-zksecurity-notes-and-proofs-for-divisor-techniques.pdf){: .btn-secondary}
-[2026-08 "Formalization of Eagen's ECIP Proof" (Lean 4)](https://github.com/zksecurity/eagen-divisor-formalization){: .btn-secondary}
+[2026-04 Notes and Proofs](/files/2026-04-27-zksecurity-notes-and-proofs-for-divisor-techniques.pdf "Notes and Proofs for Divisor Techniques"){: .btn-secondary}
+[2026-08 Lean 4 Formalization](https://github.com/zksecurity/eagen-divisor-formalization "Formalization of Eagen's ECIP Proof"){: .btn-secondary}
+{: .btn-list}
