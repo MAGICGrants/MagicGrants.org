@@ -70,7 +70,7 @@ After completing their notes, zkSecurity kept working on their own. zkSecurity's
 
 ### What zkSecurity Proved
 
-In plain terms, zkSecurity's Lean proof shows that a cheating prover cannot get a false claim past the divisor check, except with a tiny, precisely calculated probability. Lean checked every step of this argument, independently confirming the central result of the written proofs.
+In plain terms, zkSecurity's Lean proof shows that a cheating prover cannot get a false claim past the divisor check, except with a tiny, precisely calculated probability (far less likely than guessing a 12-word seed phrase). Lean checked every step of this argument, mechanically confirming the central result of the written proofs.
 
 This holds no matter what the prover sends; the proof does not assume the prover is honest. It also covers both the specific variant Parker uses in FCMP++ and Eagen's original.
 
