@@ -1888,7 +1888,7 @@ header .container {
     padding-top: 0;
 }
 
-.blog-section .col.post-page .post-body code {
+.blog-section .col.post-page .post-body pre code {
     display: block;
     overflow: auto;
     padding: 1.5rem;
@@ -1901,6 +1901,18 @@ header .container {
     font-weight: 700;
     color: #455074;
     line-height: 1.5;
+}
+
+.blog-section .col.post-page .post-body :not(pre) > code {
+    padding: 0.15em 0.4em;
+    background-color: rgba(58, 118, 240, 0.1);
+    border-radius: 4px;
+    font-family: andale mono,Courier,courier new,monospace;
+    font-size: 0.85em;
+    color: #455074;
+    overflow-wrap: anywhere;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
 }
 
 blockquote {
