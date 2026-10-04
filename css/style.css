@@ -850,6 +850,47 @@ header .container {
     font-size: 1rem;
 }
 
+/* Paragraphs of app screenshots sit side by side in one centered row, however many there are */
+.blog-section .col.post-page .post-body p.screenshots {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 14rem);
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.blog-section .col.post-page .post-body p.screenshots a {
+    border-bottom: none;
+}
+
+.blog-section .col.post-page .post-body p.screenshots img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 0;
+    border-radius: 1rem;
+    border: 1px solid #D1DFFB;
+}
+
+@media only screen and (max-width: 37rem) {
+
+.blog-section .col.post-page .post-body p.screenshots {
+    gap: 0.5rem;
+}
+
+/* Four or more screenshots are too small in one row on phones, so wrap them two per row */
+.blog-section .col.post-page .post-body p.screenshots:has(> a:nth-of-type(4)) {
+    grid-auto-flow: row;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.blog-section .col.post-page .post-body p.screenshots img {
+    border-radius: 0.5rem;
+}
+
+}
+
 @media only screen and (max-width: 30rem) {
 
 .blog-section .col.post-page .post-body p:has(> .btn-primary, > .btn-secondary) {
