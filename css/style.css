@@ -732,10 +732,10 @@ header .container {
     -ms-flex-pack: justify;
     -webkit-box-pack: justify;
     justify-content: start;
+    gap: 1rem;
 }
 
 #intro .download-btn a {
-    margin-right: 1rem;
     text-decoration: none;
 }
 
@@ -931,11 +931,6 @@ header .container {
 	display:none;
 }
 
-#intro .download-btn a {
-	margin-right: 0.5rem;
-    margin-left: 0.5rem;
-	text-decoration: none;
-}
     
 }
 
@@ -1004,13 +999,12 @@ header .container {
 	padding: 4rem 0;
 }
 
-#intro .download-btn a {
-	margin: 1rem 0.5rem 0 0.5rem;
-	text-decoration: none;
+#intro .download-btn {
+	gap: 0.75rem;
 }
 
 #intro .intro-info .download-btn {
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
 
 }
@@ -1239,10 +1233,10 @@ header .container {
 
 #moreinfo .container .col .btn-group {
     margin-top: 2rem;
+    gap: 1rem;
 }
 
 #moreinfo .container .col .btn-group a {
-    margin-right: 1rem;
     width: 8rem;
     text-align: center;
 }
@@ -1290,11 +1284,7 @@ header .container {
 	-webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    margin-top: 0;
-}
-
-#moreinfo .container .col .btn-group a {
-	margin: 1rem 0.5rem 0 0.5rem;
+    margin-top: 1rem;
 }
 
 }
