@@ -1832,6 +1832,14 @@ header .container {
     margin-top: 1.5rem;
 }
 
+.blog-section .col.post-page .post-body video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+}
+
 .blog-section .col.post-page .post-body h2 {
     font-size: 1.5rem;
     margin-top: 3rem;
